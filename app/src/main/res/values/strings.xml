@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NfcToSlack</string>
+    <string name="title_activity_nfc_registration">NfcRegistrationActivity</string>
+</resources>
